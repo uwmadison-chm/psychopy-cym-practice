@@ -1,2 +1,3 @@
-# psychopy-cym
-Change Your Mind task implementation in PsychoPy
+# psychopy-cym-practice
+
+Change Your Mind practice task implementation in PsychoPy
